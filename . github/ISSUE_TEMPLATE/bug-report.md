@@ -1,4 +1,6 @@
 
 # This is a file
 
-PLACEHOLDER
+PLACEHOLDER\
+
+theme: minima
